@@ -1,0 +1,27 @@
+#class-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+
+    padding: 3vh;
+}
+
+#form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#form-submit {
+    background-color: azure;
+    border-color: chartreuse;
+    margin: 10px
+}
+
+#form-submit:hover {
+    color:aliceblue;
+    background-color: green;
+}
