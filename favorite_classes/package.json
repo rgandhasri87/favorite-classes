@@ -2,7 +2,7 @@
   "name": "favorite_classes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rgandhasri87.github.io/practice-react-website",
+  "homepage": "https://rgandhasri87.github.io/favorite-classes",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
